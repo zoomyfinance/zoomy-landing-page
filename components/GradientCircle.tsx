@@ -2,14 +2,14 @@ import { TabletScreenWidth } from "constants/data";
 import styled from "styled-components";
 
 type GradientCircleProps = {
-	className: string;
+	className?: string;
 };
 
 const GradientCircle = ({ className }: GradientCircleProps) => {
 	return <Circle className={className} />;
 };
 
-const Circle = styled.div`
+const Circle = styled.div<{ className?: string }>`
 	--size: 63rem;
 	position: absolute;
 	height: var(--size);
