@@ -72,10 +72,10 @@ const StyledButton = styled.button`
 	font-weight: 400;
 	font-size: 15px;
 	line-height: 150%;
-	padding: 1.5rem 3rem;
+	padding: 1rem 2rem;
 
 	@media screen and (max-width: ${TabletScreenWidth}px) {
-		padding: 1rem 2rem;
+		padding: 0.2rem 0.8rem;
 		font-size: 14px;
 	}
 `;
