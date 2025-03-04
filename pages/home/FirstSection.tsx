@@ -46,7 +46,7 @@ const FirstSection = () => {
 			<GradientCircle className="circle-3" />
 
 			<Text
-				text="Influencer lifestyle unscripted"
+				text="Crypto made simple and seamless"
 				type="heading"
 				className={`text__heading--${
 					width > TabletScreenWidth ? "xl" : "medium"
@@ -55,7 +55,7 @@ const FirstSection = () => {
 			/>
 
 			<Text
-				text="Zoomy is an ecosystem made for influencers. It offers the best possible opportunity for influencers to make money every week"
+				text="Zoomy lets you receive and instantly convert your crypto to local currency at the best rates. It's fast and simple 🚀"
 				type="body"
 				className={`text__body--${
 					width > TabletScreenWidth ? "medium" : "xs"

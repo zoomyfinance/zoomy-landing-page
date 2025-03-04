@@ -45,7 +45,7 @@ const ThirdSection = () => {
 
 					<Text
 						type="body"
-						text="Zoomy is an entertaining channel made possible by influencers. We're here to entertain and spread vawulence. We also brings you the best in entertainment, lifestyle, life tips, up-to-date informations and more from your favourite influencers."
+						text="Zoomy lets you receive crypto and convert it to local currency instantly at the best market rates. With secure transactions and a seamless experience, you stay in control of your money."
 						className={`text__body--${
 							width > TabletScreenWidth ? "xl" : "small"
 						}`}

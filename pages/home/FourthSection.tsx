@@ -26,7 +26,7 @@ const FourthSection = () => {
 				<div className="content__right">
 					<Text
 						type="heading"
-						text="Know whats happening to your favourite influencer 👀"
+						text="The best coins, instantly yours!"
 						className={`text__heading--${
 							width > TabletScreenWidth ? "large" : "xs"
 						}`}
@@ -35,7 +35,7 @@ const FourthSection = () => {
 
 					<Text
 						type="body"
-						text="Get a glimpse into the life of some of your favourite influencers, discover more great and shitty things about them."
+						text="Receive BTC, ETH, USDT, and more fast, secure, and at the best market rate. Tested and trusted."
 						className={`text__body--${
 							width > TabletScreenWidth ? "xl" : "small"
 						}`}

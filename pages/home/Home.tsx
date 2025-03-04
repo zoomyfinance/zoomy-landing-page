@@ -9,7 +9,7 @@ import ThirdSection from "./ThirdSection";
 const Home = () => {
 	return (
 		<>
-        <title>Zoomy! -- Crypto made fast and simple</title>
+        <title>Zoomy!</title>
 			<FirstSection />
 			<SecondSection />
 			<ThirdSection />

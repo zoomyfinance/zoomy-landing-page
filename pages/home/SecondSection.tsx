@@ -12,18 +12,18 @@ import { MobileScreenWidth, TabletScreenWidth } from "constants/data";
 const content = [
 	{
 		Icon: SupportIcon,
-		heading: "24/7 Entertainment",
-		body: "Zoomy is an entertaining channel made possible by influencers",
+		heading: "24/7 Support 📞",
+		body: "Our 24/7 support team is always here for you with swift assistance anyday, anytime",
 	},
 	{
 		Icon: CheckIcon,
-		heading: "Vawulence ✔",
-		body: "Catch the non-stop vawulence and gbas-gbos from your favourite influencers",
+		heading: "Secured exchange 🔒",
+		body: "Zoomy uses advanced encryption and secure best practices to keep your funds safe at all times",
 	},
 	{
 		Icon: AuthenticIcon,
-		heading: "Vawulence ++",
-		body: "Stay up-to-date with happenings as regards your favourite influencer",
+		heading: "Best rates 🚀",
+		body: "Get the best rates on every coin received with Zoomy. No hidden fees, its fast, fair, and transparent",
 	},
 ];
 

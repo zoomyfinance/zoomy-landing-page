@@ -25,7 +25,7 @@ const FifthSection = () => {
 				<div className="content__left">
 					<Text
 						type="heading"
-						text="Join the conversation cooked by your favourite influencer 🥷"
+						text="Military grade encryption 🔒"
 						className={`text__heading--${
 							width > TabletScreenWidth ? "large" : "xs"
 						}`}
@@ -34,7 +34,7 @@ const FifthSection = () => {
 
 					<Text
 						type="body"
-						text="Zoomy gives you the opportunity to connect with your favourite influencer, join the conversation around them and help them drag other influencers."
+						text="With Zoomy, your funds are 100% safe and protected at all times with AES-256 encryption"
 						className={`text__body--${
 							width > TabletScreenWidth ? "xl" : "small"
 						}`}

@@ -41,18 +41,18 @@ function Footer() {
 
 						<Text
 							type="body"
-							text="Influencer lifestyle unscripted — The most entertaining platform of all time 👀"
+							text="Zoomy! — Crypto made simple and seamless, you will love it!"
 							className={`text__body--${
 								width > TabletScreenWidth ? "large" : "small"
 							} `}
 						/>
 
 						<div className="links-box">
-							<Link href="https://facebook.com/zoomyfinance">
+							{/* <Link href="https://facebook.com/zoomyfinance">
 								<a target="_blank">
 									<FacebookIcon />
 								</a>
-							</Link>
+							</Link> */}
 							<Link href="https://x.com/zoomyfinance">
 								<a target="_blank">
 									<TwitterIcon />
@@ -63,11 +63,11 @@ function Footer() {
 									<InstagramIcon />
 								</a>
 							</Link>
-							<Link href="https://www.tiktok.com/@zoomyfinance">
+							{/* <Link href="https://www.tiktok.com/@zoomyfinance">
 								<a target="_blank">
 									<TiktokIcon />
 								</a>
-							</Link>
+							</Link> */}
 						</div>
 					</div>
 
@@ -123,7 +123,7 @@ function Footer() {
 								color={headingPrimary}
 							/>
 
-							<Link href="https://jiggylife.notion.site/Privacy-Policy-4d4e5ae533fb4b03ba3956cc92fd770b">
+							<Link href="#">
 								<a>
 									<Text
 										className={`text__body--${
@@ -137,7 +137,7 @@ function Footer() {
 								</a>
 							</Link>
 
-							<Link href="https://jiggylife.notion.site/Terms-and-Conditions-a9436842a19a45f8a1ef5c03b6c51bf1">
+							<Link href="#">
 								<a>
 									<Text
 										className={`text__body--${
@@ -164,7 +164,7 @@ function Footer() {
 
 					<Text
 						type="body"
-						text={`©${new Date().getFullYear()} Jiggyliife Limited - RC 6921509 ｜ All right reserved`}
+						text={`©${new Date().getFullYear()} Zoomy Technologies - RC 7948829 ｜ All right reserved`}
 						className={`text__body--${
 							width > TabletScreenWidth ? "large" : "xs"
 						}`}
