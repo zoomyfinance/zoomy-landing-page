@@ -6,6 +6,8 @@ import { GlobalStyles } from "../constants/globalStyles";
 import { theme } from "constants/theme";
 import Layout from "../components/Layout";
 
+export const runtime = "edge";
+
 function MyApp({ Component, pageProps }: AppProps) {
 	return (
 		<ThemeProvider theme={theme}>

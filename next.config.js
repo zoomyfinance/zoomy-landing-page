@@ -5,4 +5,5 @@ const nextConfig = {
   output: 'export', // Enable static export
 }
 
-module.exports = nextConfig
+// Change from CommonJS export to ES module export
+export default nextConfig;

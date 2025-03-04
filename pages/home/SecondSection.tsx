@@ -1,3 +1,5 @@
+export const runtime = "edge";
+
 import React from "react";
 import styled, { useTheme } from "styled-components";
 

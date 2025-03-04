@@ -1,3 +1,5 @@
+export const runtime = "edge";
+
 import FifthSection from "./FifthSection";
 import FirstSection from "./FirstSection";
 import FourthSection from "./FourthSection";

@@ -1,3 +1,5 @@
+export const runtime = "edge";
+
 import React, { useState } from "react";
 import styled, { useTheme } from "styled-components";
 import Image from "next/image";
