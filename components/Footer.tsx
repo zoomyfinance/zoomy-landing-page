@@ -41,7 +41,7 @@ function Footer() {
 
 						<Text
 							type="body"
-							text="Zoomy! — Crypto made simple and seamless, you will love it!"
+							text="Zoomy! — Its simple and seamless, you will love it!"
 							className={`text__body--${
 								width > TabletScreenWidth ? "large" : "small"
 							} `}

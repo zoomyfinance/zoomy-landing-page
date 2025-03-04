@@ -45,7 +45,7 @@ const ThirdSection = () => {
 
 					<Text
 						type="body"
-						text="Zoomy lets you receive crypto and convert it to local currency instantly at the best market rates. With secure transactions and a seamless experience, you stay in control of your money."
+						text="Zoomy lets you receive coins and convert it to local currency instantly at the best market rates. With secure transactions and a seamless experience, you stay in control of your money."
 						className={`text__body--${
 							width > TabletScreenWidth ? "xl" : "small"
 						}`}

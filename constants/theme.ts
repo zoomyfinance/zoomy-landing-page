@@ -10,7 +10,7 @@ const pallete = {
 		400: "#828282",
 	},
 	orange: {
-		100: "#FDF1E1",
+		100: "#EFF5FF",
 		200: "#FADBB1",
 		300: "#FFBD68",
 		400: "#FF914D",

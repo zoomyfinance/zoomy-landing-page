@@ -55,7 +55,7 @@ const FirstSection = () => {
 			/>
 
 			<Text
-				text="Zoomy lets you receive and instantly convert your crypto to local currency at the best rates. It's fast and simple 🚀"
+				text="Zoomy lets you receive and instantly convert your coins to local currency at the best rates. It's fast and simple 🚀"
 				type="body"
 				className={`text__body--${
 					width > TabletScreenWidth ? "medium" : "xs"
