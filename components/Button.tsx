@@ -75,7 +75,7 @@ const StyledButton = styled.button`
 	padding: 1rem 2rem;
 
 	@media screen and (max-width: ${TabletScreenWidth}px) {
-		padding: 0.2rem 0.8rem;
+		padding: 0.4rem 1rem;
 		font-size: 14px;
 	}
 `;

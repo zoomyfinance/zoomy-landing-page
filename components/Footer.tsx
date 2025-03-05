@@ -181,7 +181,7 @@ const Container = styled.footer`
 
 	.content {
 		width: var(--content-width);
-		padding: 8.4rem 7.8rem 7rem 7.8rem;
+		padding: 8rem 7.4rem 6.6rem 7.4rem;
 		background-color: ${({ theme }) => theme.colors.footerBackground};
 		margin: 0 auto;
 		border-radius: 20px;
@@ -202,7 +202,7 @@ const Container = styled.footer`
 				.logo-box {
 					height: 5.7rem;
 					width: 11.1rem;
-					margin-bottom: 3rem;
+					margin-bottom: 4rem;
 
 					@media screen and (max-width: ${SmallDesktopScreenWidth}px) {
 						margin: 0 auto;
@@ -211,13 +211,13 @@ const Container = styled.footer`
 				}
 
 				p {
-					margin-bottom: 3rem;
+					margin-bottom: 4rem;
 					max-width: 40rem;
 
 					@media screen and (max-width: ${SmallDesktopScreenWidth}px) {
 						margin: 0 auto;
 						text-align: center;
-						margin-bottom: 4rem;
+						margin-bottom: 2rem;
 					}
 
 					@media screen and (max-width: ${MobileScreenWidth}px) {
