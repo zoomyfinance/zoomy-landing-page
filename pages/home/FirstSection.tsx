@@ -15,7 +15,7 @@ import {
 } from "constants/data";
 import { ThemeType } from "constants/theme";
 import { StoreButton } from "components/Button";
-import PhoneImage from "assets/images/hero-phone.png";
+import PhoneImage from "assets/images/hero-phone2.png";
 import PhoneImageBg from "assets/images/hero-phone-bg.svg";
 import HeroLightning from "assets/images/hero-lightning.png";
 import ManIcon from "assets/images/hero-image-man.png";

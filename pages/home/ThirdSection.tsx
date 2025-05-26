@@ -6,7 +6,7 @@ import Image from "next/image";
 
 import Text from "components/Text";
 import { ThemeType } from "constants/theme";
-import TwoPhones from "assets/images/two-phones.png";
+import TwoPhones from "assets/images/two-phones2.png";
 import useWindowSize from "utils/hooks/useWindowSize";
 import {
 	MobileScreenWidth,
